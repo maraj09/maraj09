@@ -7,5 +7,5 @@ I am [**`Md Maraj Rashid`**](https://maraj09.github.io/rashid.github.io/), A ful
 -:mortar_board: Studying `B.Sc in CSE` from Ahsanullah University Science & Technology.
   - :star2: Learning web & app technologies Like `React Native`, `API's`, `PHP Laravel`, etc.
   - :office: Working as a freelancer in [`Upwork`](https://www.upwork.com/o/profiles/users/~01e181175567d6c48a/).
-  - :earth_asia: Exploring my country for __Unification__ :flags:.
+  - :earth_asia: Exploring my country with the hope of __Unity & Solidarity__ :flags:.
 
