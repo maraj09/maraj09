@@ -1,5 +1,5 @@
 ### Hey There 👋
-I am [**`Md Maraj Rashid`**](https://maraj09.github.io/rashid.github.io/), A full-stack and freelance software developer from `Bangladesh`. I am always trying to learn and build something new. I take great care in the experience and code quality of the things I build:blush:.
+I am [**`Md Maraj Rashid`**](https://maraj09.github.io/rashid.github.io/), A full-stack software developer from `Bangladesh`. I am always trying to learn and build something new. I take great care in the experience and quality of the things I build & maintain:blush:.
 
 >Always On !
 
