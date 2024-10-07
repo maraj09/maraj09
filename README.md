@@ -4,9 +4,8 @@ I am [**`Md Maraj Rashid`**](https://maraj09.github.io/rashid.github.io/), A ful
 >Always On!
 
 ### Things Doing Now :mortar_board::computer::horse_racing:
--:mortar_board: Studying `B.Sc in CSE` from Ahsanullah University Science & Technology.
-  - :tophat: Crafting magic with `React Native`, `APIs`, `PHP`, `Laravel`, etc.
-  - :star2: Learning new web technologies like `Blockchain`, `Ethereum`, `Solidity`, etc.
-  - :office: Working as a freelancer in [`Upwork`](https://www.upwork.com/o/profiles/users/~01e181175567d6c48a/).
+- :mortar_board: Studying `B.Sc in CSE` from Ahsanullah University Science & Technology.
+  - :tophat: Crafting magic with `PHP`, `Laravel`, `JavaScript`, `React.js`, `React-Native`, `Apis` etc.
+  - :star2: Learning new web3 technologies like `Blockchain`, `Ethereum`, `Solidity`, etc.
   - :earth_asia: Exploring my country with the hope of __Unity & Solidarity__ :flags:.
 
